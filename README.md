@@ -1,6 +1,6 @@
-### Hola, Soy Iván Parada 👋
+## Hola, Soy Iván Parada 👋
 
-#### 🚀💻 Tecnologias & Herramientas
+### 🚀💻 Tecnologias & Herramientas
 Desarrollador con experiencia en Flutter para aplicaciones móviles, React para desarrollo Frontend y con planes de expandir habilidades hacia el desarrollo Full-Stack con tecnologías MERN.
 #### 📋 Lenguajes
 >![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,4 +30,5 @@ Desarrollador con experiencia en Flutter para aplicaciones móviles, React para 
 >![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+### ⚡ Estadísticas de Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&hide_progress=true)
