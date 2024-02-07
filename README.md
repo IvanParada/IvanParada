@@ -30,4 +30,4 @@ Desarrollador con experiencia en Flutter para aplicaciones móviles, React para 
 >![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&hide_progress=true)
