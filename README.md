@@ -31,4 +31,4 @@ Desarrollador con experiencia en Flutter para aplicaciones móviles, React para 
 
 
 ### ⚡ Estadísticas de Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&layout=compact)
