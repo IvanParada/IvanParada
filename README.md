@@ -31,3 +31,5 @@ Desarrollador con experiencia en Flutter para aplicaciones móviles y React para
 
 ### ⚡ Estadísticas de Github
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&layout=compact)
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app)
+
