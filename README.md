@@ -29,7 +29,7 @@ Desarrollador con experiencia en Flutter para aplicaciones móviles y React para
 ### Otros
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### ⚡ Estadísticas de Github
->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&layout=compact)
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app)
+<!-- ### ⚡ Estadísticas de Github
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&layout=compact) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanParada)](https://github.com/anuraghazra/github-readme-stats)
 
